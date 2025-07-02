@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am Jjuuko Ronald, a passionate Full stack Developer based in Kampala, Uganda, with over two years of experience across various creation and design disciplines.<br>I am a web developer who loves turning ideas into interactive, user-friendly websites. With dedication to crafting seamless and engaging experiences to create systems that stand out. I bring digital dreams to life. Contact me , Let's build something amazing together!
+<br>I am Jjuuko Ronald, a passionate Full stack Developer based in Kampala, Uganda, with hands on experience across various creation and design disciplines.<br>I am a web developer who loves turning ideas into interactive, user-friendly websites. With dedication to crafting seamless and engaging experiences to create systems that stand out. I bring digital dreams to life. Contact me , Let's build something amazing together!
 
 
 ## 🌐 Socials:
